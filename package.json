@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_project1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projeto em Node js, do curso Rockeseat ignite",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliceperuniz/nodejs_project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliceperuniz/nodejs_project1/issues"
+  },
+  "homepage": "https://github.com/aliceperuniz/nodejs_project1#readme",
+  "dependencies": {
+    "httpie": "^1.1.2",
+    "node": "^21.1.0"
+  }
+}
